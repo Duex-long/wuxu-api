@@ -1,0 +1,8 @@
+{
+  "name": "@wuxu/api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Wuxu personal inventory NestJS API",
+  "license": "UNLICENSED"
+}
+
